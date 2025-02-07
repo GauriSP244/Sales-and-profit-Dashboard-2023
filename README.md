@@ -13,8 +13,7 @@ This **Power BI dashboard** provides insights into **sales trends, profitability
 
 ## 🔧 Project Files  
 | File Name                  | Description |
-|----------------------------|-------------|
-| `dashboard.pbix`            | Final Power BI dashboard |
+|----------------------------|-------------|            
 | `clean_sales_dataset.pbix`  | Cleaned Power BI dataset |
 | `dashboard_template.pbix`   | Template for future dashboards |
 | `sales_dataset.xlsx`        | Raw sales data |
