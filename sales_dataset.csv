@@ -1,0 +1,201 @@
+Date,Product,Category,Sales ($),Cost ($),Profit ($),Region,Customer Age,Gender
+13-06-2023,Wall Art,Home Decor,1345,942.57,402.43,USA,43,Female
+10-12-2023,Milk,Groceries,145,79.37,65.63,UK,41,Female
+31-08-2023,Watch,Accessories,1295,987.76,307.24,India,31,Female
+19-07-2023,Jacket,Fashion,826,478.1,347.9,UK,39,Other
+03-07-2023,Smartwatch Y,Electronics,873,531.62,341.38,India,41,Other
+14-04-2023,Vase,Home Decor,239,168.64,70.36,UK,43,Other
+02-06-2023,Eggs,Groceries,844,527.7,316.3,UK,23,Female
+02-06-2023,Milk,Groceries,130,70.04,59.96,Germany,22,Other
+22-12-2023,Sunglasses,Fashion,1442,1110.25,331.75,India,44,Male
+03-03-2023,Backpack,Accessories,1485,950.61,534.39,USA,27,Male
+15-09-2023,Bread,Groceries,1698,924.65,773.35,India,53,Male
+17-09-2023,Milk,Groceries,1365,688.72,676.28,UK,31,Female
+05-03-2023,Smartphone Z,Electronics,1429,743.69,685.31,Canada,56,Male
+11-01-2023,Jeans,Fashion,1366,909.88,456.12,USA,23,Other
+21-02-2023,Hat,Accessories,675,512.13,162.87,Germany,58,Other
+31-08-2023,Vase,Home Decor,170,121.23,48.77,USA,47,Male
+08-08-2023,Belt,Accessories,529,414.59,114.41,Canada,45,Other
+15-05-2023,Juice,Groceries,618,408.32,209.68,USA,37,Other
+02-06-2023,Sunglasses,Fashion,1580,813.88,766.12,USA,19,Other
+04-08-2023,Cereal,Groceries,1614,1267.36,346.64,India,42,Other
+25-10-2023,Smartphone Z,Electronics,1455,741.54,713.46,UK,55,Male
+09-08-2023,Sunglasses,Fashion,1440,958.2,481.8,Canada,19,Female
+08-05-2023,Jeans,Fashion,493,351.82,141.18,India,52,Other
+12-08-2023,Headphones A,Electronics,1702,1030.22,671.78,Canada,35,Male
+26-07-2023,Rug,Home Decor,614,330.56,283.44,USA,23,Male
+26-08-2023,Belt,Accessories,1013,588.7,424.3,India,19,Male
+07-10-2023,Hat,Accessories,1552,1028.93,523.07,UK,35,Male
+04-12-2023,Laptop X1,Electronics,140,71.68,68.32,Germany,22,Male
+24-07-2023,Curtains,Home Decor,873,518.76,354.24,Germany,45,Female
+24-03-2023,Jacket,Fashion,1536,797.12,738.88,UK,38,Male
+02-06-2023,Cereal,Groceries,782,491.65,290.35,India,53,Female
+21-01-2023,Sneakers,Fashion,1540,1109.35,430.65,India,56,Other
+24-10-2023,Smartwatch Y,Electronics,180,106.39,73.61,Germany,60,Male
+11-03-2023,Smartphone Z,Electronics,1908,1386.22,521.78,Canada,55,Female
+24-05-2023,Jacket,Fashion,983,632.49,350.51,Germany,59,Other
+05-12-2023,Sneakers,Fashion,1638,1215.93,422.07,Canada,52,Other
+25-03-2023,Milk,Groceries,1135,617.2,517.8,Germany,24,Male
+22-01-2023,Jacket,Fashion,1742,1331.86,410.14,USA,41,Male
+27-11-2023,Sneakers,Fashion,380,220.53,159.47,Canada,22,Female
+05-12-2023,Cereal,Groceries,175,108.22,66.78,Germany,23,Female
+24-04-2023,Hat,Accessories,1672,1277.72,394.28,UK,60,Female
+06-11-2023,Sneakers,Fashion,1116,804.59,311.41,UK,18,Male
+26-06-2023,Smartwatch Y,Electronics,1045,730.86,314.14,UK,23,Female
+26-06-2023,Watch,Accessories,1093,865.96,227.04,Germany,50,Male
+02-01-2023,Sneakers,Fashion,287,179.02,107.98,USA,33,Other
+12-04-2023,Laptop X1,Electronics,1583,1057.68,525.32,India,60,Female
+20-05-2023,Laptop X1,Electronics,1029,712.76,316.24,Canada,52,Other
+17-03-2023,Sneakers,Fashion,953,720.44,232.56,India,36,Female
+08-09-2023,Backpack,Accessories,1150,719.1,430.9,India,49,Male
+30-01-2023,Curtains,Home Decor,1158,588.86,569.14,Canada,54,Other
+23-02-2023,Milk,Groceries,1591,994.29,596.71,Germany,53,Male
+06-10-2023,Sneakers,Fashion,196,112.79,83.21,India,25,Female
+13-04-2023,Vase,Home Decor,1017,760.86,256.14,Canada,50,Male
+15-11-2023,Curtains,Home Decor,585,371.92,213.08,USA,60,Male
+04-02-2023,Belt,Accessories,1711,1027.32,683.68,India,51,Other
+17-12-2023,Sunglasses,Fashion,536,306.4,229.6,Canada,40,Male
+22-09-2023,Smartwatch Y,Electronics,1987,1197.22,789.78,Germany,21,Male
+10-04-2023,Milk,Groceries,1335,923.74,411.26,Germany,42,Other
+03-01-2023,Headphones A,Electronics,1988,1082.11,905.89,UK,56,Male
+23-01-2023,Backpack,Accessories,1478,925.88,552.12,UK,54,Male
+25-08-2023,Milk,Groceries,1895,1069.13,825.87,Germany,30,Female
+23-07-2023,Juice,Groceries,1891,1138.78,752.22,UK,52,Female
+29-04-2023,Sneakers,Fashion,1307,659.52,647.48,Germany,22,Male
+28-02-2023,Tablet Pro,Electronics,1955,1078.03,876.97,USA,33,Other
+07-12-2023,Hat,Accessories,607,442.51,164.49,USA,51,Female
+28-07-2023,Backpack,Accessories,981,514.5,466.5,UK,48,Other
+06-09-2023,Sunglasses,Fashion,151,103.96,47.04,USA,37,Other
+06-06-2023,Laptop X1,Electronics,1903,1108.5,794.5,Canada,22,Male
+03-09-2023,Watch,Accessories,210,150.1,59.9,Germany,59,Other
+23-11-2023,Sunglasses,Fashion,1443,863.4,579.6,UK,36,Other
+29-01-2023,Hat,Accessories,1099,824.06,274.94,USA,52,Male
+17-06-2023,Tablet Pro,Electronics,1815,1106.07,708.93,Canada,51,Male
+07-07-2023,Laptop X1,Electronics,298,220.09,77.91,Canada,53,Male
+30-04-2023,Bread,Groceries,1801,1233.94,567.06,Canada,45,Other
+20-11-2023,Hat,Accessories,803,568.16,234.84,India,51,Other
+25-03-2023,Lamp,Home Decor,1219,673.47,545.53,UK,31,Female
+22-05-2023,Jeans,Fashion,582,414.05,167.95,India,18,Other
+28-11-2023,Lamp,Home Decor,1288,938.35,349.65,Canada,51,Other
+11-09-2023,Milk,Groceries,1085,637.82,447.18,Canada,30,Other
+05-09-2023,Belt,Accessories,276,181.71,94.29,USA,24,Female
+23-09-2023,Jeans,Fashion,1820,1227.47,592.53,USA,48,Male
+05-07-2023,Smartphone Z,Electronics,1701,1271.24,429.76,Canada,53,Male
+14-11-2023,Sneakers,Fashion,1957,1443.41,513.59,USA,22,Male
+22-12-2023,Vase,Home Decor,327,254.69,72.31,Canada,27,Female
+20-10-2023,Cereal,Groceries,1114,730.74,383.26,USA,55,Other
+26-01-2023,Wall Art,Home Decor,1560,1053.4,506.6,USA,35,Female
+14-01-2023,Wall Art,Home Decor,837,452.6,384.4,India,53,Other
+03-11-2023,Vase,Home Decor,1208,715.69,492.31,Germany,37,Male
+18-03-2023,T-Shirt,Fashion,109,67.59,41.41,India,42,Male
+07-01-2023,Hat,Accessories,1140,910.63,229.37,Canada,25,Male
+23-09-2023,Cereal,Groceries,1697,1323.34,373.66,USA,25,Male
+11-01-2023,Sunglasses,Fashion,177,90.03,86.97,USA,18,Male
+03-04-2023,Hat,Accessories,1825,1101.04,723.96,Germany,34,Female
+16-07-2023,Laptop X1,Electronics,1469,1078.7,390.3,UK,34,Other
+11-10-2023,Hat,Accessories,960,676.57,283.43,UK,41,Female
+16-03-2023,Rug,Home Decor,1900,1084.39,815.61,Germany,44,Other
+03-09-2023,Belt,Accessories,222,114.64,107.36,India,50,Female
+22-06-2023,Tablet Pro,Electronics,651,454.05,196.95,Germany,20,Other
+10-01-2023,Headphones A,Electronics,799,472.85,326.15,Canada,56,Other
+28-06-2023,Laptop X1,Electronics,612,406.72,205.28,Canada,51,Other
+26-07-2023,Hat,Accessories,1154,902.95,251.05,USA,51,Other
+07-10-2023,Vase,Home Decor,455,325.12,129.88,USA,27,Female
+01-03-2023,Smartphone Z,Electronics,1840,1238.32,601.68,Canada,58,Other
+08-01-2023,Jacket,Fashion,1624,951.66,672.34,UK,50,Other
+28-07-2023,Milk,Groceries,522,276.21,245.79,Germany,30,Other
+23-07-2023,Curtains,Home Decor,534,301.21,232.79,UK,18,Female
+17-11-2023,Smartwatch Y,Electronics,1046,623.61,422.39,India,29,Male
+23-05-2023,Laptop X1,Electronics,725,552.31,172.69,India,56,Male
+30-05-2023,T-Shirt,Fashion,1867,1425.83,441.17,India,34,Other
+25-06-2023,Curtains,Home Decor,652,382.36,269.64,Canada,28,Female
+09-09-2023,Sneakers,Fashion,234,150.56,83.44,Germany,59,Male
+29-09-2023,Lamp,Home Decor,1626,909.67,716.33,USA,60,Female
+29-12-2023,Lamp,Home Decor,1312,770.29,541.71,UK,37,Female
+25-05-2023,Rug,Home Decor,1902,1132.46,769.54,Germany,48,Other
+03-10-2023,Watch,Accessories,1695,1109.45,585.55,Germany,55,Male
+15-11-2023,Juice,Groceries,1572,913.93,658.07,India,29,Male
+03-09-2023,Headphones A,Electronics,322,181.11,140.89,UK,26,Male
+19-11-2023,Curtains,Home Decor,680,405.05,274.95,UK,20,Other
+06-09-2023,Headphones A,Electronics,287,157.25,129.75,India,48,Female
+30-12-2023,Smartphone Z,Electronics,1600,1119.35,480.65,UK,42,Male
+30-10-2023,Eggs,Groceries,128,95.49,32.51,Germany,25,Female
+23-02-2023,Belt,Accessories,520,352.14,167.86,USA,31,Female
+30-04-2023,Belt,Accessories,67,45.05,21.95,USA,34,Male
+05-11-2023,Cereal,Groceries,279,186.53,92.47,Canada,18,Other
+22-12-2023,Sunglasses,Fashion,631,483.97,147.03,India,30,Female
+11-04-2023,T-Shirt,Fashion,187,121.5,65.5,USA,46,Other
+18-09-2023,Cereal,Groceries,209,155.25,53.75,India,36,Female
+09-08-2023,Jacket,Fashion,452,331.73,120.27,Germany,39,Female
+20-04-2023,Smartphone Z,Electronics,170,125.03,44.97,UK,39,Other
+28-12-2023,Smartphone Z,Electronics,946,711.05,234.95,Germany,27,Female
+29-03-2023,Smartwatch Y,Electronics,927,685.04,241.96,USA,60,Other
+29-12-2023,T-Shirt,Fashion,1013,518.67,494.33,UK,47,Other
+12-02-2023,Sneakers,Fashion,1187,830.18,356.82,USA,24,Female
+21-07-2023,Laptop X1,Electronics,1623,925.63,697.37,India,57,Female
+30-03-2023,Bread,Groceries,1412,748.8,663.2,USA,28,Male
+13-12-2023,Belt,Accessories,1619,1189.91,429.09,Canada,23,Female
+20-06-2023,Sunglasses,Fashion,284,144.81,139.19,UK,59,Female
+01-05-2023,Belt,Accessories,1919,1522.17,396.83,UK,29,Other
+05-08-2023,Laptop X1,Electronics,980,691.96,288.04,USA,29,Male
+10-04-2023,Tablet Pro,Electronics,1134,820.56,313.44,USA,33,Female
+08-07-2023,Backpack,Accessories,394,287.21,106.79,UK,34,Other
+27-08-2023,Juice,Groceries,1511,1058.79,452.21,India,32,Male
+16-09-2023,Eggs,Groceries,1045,647.79,397.21,India,41,Female
+01-12-2023,Bread,Groceries,801,533.12,267.88,UK,34,Female
+22-10-2023,Belt,Accessories,1953,1233.92,719.08,India,36,Other
+25-12-2023,Wallet,Accessories,815,600.87,214.13,USA,19,Other
+23-04-2023,Cereal,Groceries,1876,1050.39,825.61,USA,22,Other
+27-11-2023,Laptop X1,Electronics,1815,1376.81,438.19,India,20,Other
+04-11-2023,Sunglasses,Fashion,1279,880.84,398.16,Canada,32,Female
+27-11-2023,Wallet,Accessories,1484,1164.23,319.77,Canada,59,Other
+31-10-2023,Wall Art,Home Decor,1498,867.26,630.74,Germany,39,Female
+12-02-2023,Hat,Accessories,1623,1293.62,329.38,India,21,Other
+04-05-2023,Jacket,Fashion,1007,740.94,266.06,USA,41,Other
+27-01-2023,Eggs,Groceries,1700,1248.49,451.51,UK,38,Male
+09-10-2023,Sneakers,Fashion,891,591.11,299.89,Canada,55,Other
+28-10-2023,Milk,Groceries,332,205.5,126.5,India,27,Female
+14-05-2023,Belt,Accessories,415,285.29,129.71,India,42,Male
+17-08-2023,Rug,Home Decor,1786,1356.67,429.33,USA,38,Other
+23-08-2023,T-Shirt,Fashion,1262,898.87,363.13,Canada,60,Other
+06-04-2023,Vase,Home Decor,1161,696.5,464.5,USA,35,Female
+02-04-2023,Wallet,Accessories,914,682.01,231.99,Germany,40,Male
+09-10-2023,Jeans,Fashion,1523,1194.46,328.54,Canada,37,Male
+05-08-2023,Curtains,Home Decor,619,338.33,280.67,USA,47,Male
+20-07-2023,Jacket,Fashion,90,71.93,18.07,UK,54,Female
+29-11-2023,Rug,Home Decor,694,456.23,237.77,UK,32,Female
+08-06-2023,Jacket,Fashion,547,313.02,233.98,UK,58,Other
+15-01-2023,Wallet,Accessories,1163,888.59,274.41,UK,25,Other
+13-06-2023,Belt,Accessories,755,564.87,190.13,Canada,39,Female
+28-04-2023,Laptop X1,Electronics,1780,900,880,India,37,Male
+01-04-2023,Tablet Pro,Electronics,104,76.35,27.65,Canada,33,Female
+15-01-2023,Hat,Accessories,1726,868.41,857.59,Canada,47,Other
+10-05-2023,Juice,Groceries,262,140.11,121.89,Canada,33,Other
+15-09-2023,Tablet Pro,Electronics,1592,1065.25,526.75,USA,53,Male
+23-03-2023,Tablet Pro,Electronics,60,33.21,26.79,India,24,Male
+24-03-2023,Wall Art,Home Decor,1843,1280.23,562.77,Canada,42,Other
+31-03-2023,Eggs,Groceries,753,557.53,195.47,Canada,21,Male
+25-04-2023,Juice,Groceries,1235,764.85,470.15,Canada,32,Female
+11-01-2023,Smartphone Z,Electronics,273,190.02,82.98,USA,50,Female
+07-07-2023,Jeans,Fashion,1769,1181.17,587.83,Canada,52,Male
+17-03-2023,Hat,Accessories,213,133.62,79.38,USA,36,Male
+21-09-2023,Lamp,Home Decor,1455,1138.06,316.94,Germany,37,Female
+15-08-2023,Wall Art,Home Decor,1913,982.37,930.63,Germany,57,Female
+13-03-2023,Hat,Accessories,867,514.22,352.78,Germany,20,Other
+31-12-2023,Bread,Groceries,1914,973.95,940.05,Canada,50,Male
+16-08-2023,Cereal,Groceries,733,576.09,156.91,India,22,Male
+07-05-2023,Curtains,Home Decor,244,135.48,108.52,USA,42,Male
+15-09-2023,Sunglasses,Fashion,866,448.63,417.37,India,33,Female
+07-10-2023,Smartphone Z,Electronics,500,253.36,246.64,USA,25,Female
+29-06-2023,Juice,Groceries,78,48.77,29.23,UK,46,Other
+08-07-2023,Headphones A,Electronics,714,424.56,289.44,USA,47,Other
+12-07-2023,Eggs,Groceries,491,262.69,228.31,USA,19,Other
+27-10-2023,Tablet Pro,Electronics,1013,653.69,359.31,Canada,43,Male
+26-07-2023,Smartwatch Y,Electronics,743,400.26,342.74,Germany,28,Other
+12-03-2023,Milk,Groceries,843,543.2,299.8,USA,44,Male
+12-10-2023,T-Shirt,Fashion,886,485.44,400.56,UK,46,Female
+15-09-2023,Curtains,Home Decor,1109,840.11,268.89,UK,38,Male
+31-08-2023,Wall Art,Home Decor,595,337.77,257.23,Germany,46,Male
+29-09-2023,Belt,Accessories,1725,1306.33,418.67,USA,25,Male
+22-01-2023,Sunglasses,Fashion,1735,1036.84,698.16,UK,19,Other
+13-10-2023,Jeans,Fashion,282,187.3,94.7,USA,52,Other
